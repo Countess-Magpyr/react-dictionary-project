@@ -24,7 +24,6 @@ export default function Results(props) {
             </section>
           );
         })}
-        ;
       </div>
     );
   } else {
