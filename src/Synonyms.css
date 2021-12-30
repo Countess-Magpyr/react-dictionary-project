@@ -3,7 +3,8 @@
   padding: 0;
 }
 
-.Synonyms li {
+li {
+  list-style: none;
   font-size: 13px;
   display: inline-block;
   padding-right: 10px;

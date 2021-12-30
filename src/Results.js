@@ -17,9 +17,6 @@ export default function Results(props) {
             );
           })}
         </section>
-        <section>
-          <h6>Origin: {props.results.origin}</h6>{" "}
-        </section>
         {props.results.meanings.map(function (meaning, index) {
           return (
             <section key={index}>
