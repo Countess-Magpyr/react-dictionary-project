@@ -10,7 +10,7 @@ function App() {
         <Dictionary />
       </div>
       <footer className="App-footer">
-        <small>This app was made by SugarMouse</small>
+        <small>This project was made by SugarMouse</small>
       </footer>
     </div>
   );
