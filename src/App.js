@@ -12,7 +12,13 @@ function App() {
         <Dictionary />
       </div>
       <footer className="App-footer">
-        <small>This project was made by SugarMouse</small>
+        <small>
+          This project was made by{" "}
+          <a href="https://github.com/Countess-Magpyr/react-dictionary-project">
+            {" "}
+            SugarMouse{" "}
+          </a>
+        </small>
       </footer>
     </div>
   );
