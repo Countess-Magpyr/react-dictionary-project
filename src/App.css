@@ -3,14 +3,22 @@
   max-width: 800px;
   display: block;
   margin: 0 auto;
+  background: radial-gradient(
+    circle at 49.8% 44.4%,
+    rgb(251, 230, 59) 0%,
+    rgb(161, 255, 63) 90%
+  );
 }
 .App-header {
   margin: 30px 0;
+  padding-top: 30px;
   text-align: center;
+  font-family: monospace;
 }
 .App-footer {
   margin: 30px 0;
   text-align: center;
+  font-family: monospace;
 }
 
 body {
